@@ -1,0 +1,12 @@
+1. Waveshare ESP32 C3 Zero 
+https://smdpicker.com/esp32-c3-mini-development-board/
+
+2. NeoPixel 5050 WS2812B LED
+https://store.roboticsbd.com/electronics-module/2323-neopixel-5050-ws2812b-1bit-rgb-led-with-integrated-driver-robotics-bangladesh.html
+
+3. Passive Buzzer
+https://store.roboticsbd.com/components/767-passive-buzzer-5v-robotics-bangladesh.html
+
+4. Push Button Switch
+https://store.roboticsbd.com/electronic-switches/761-push-button-switch-robotics-bangladesh.html
+ 
